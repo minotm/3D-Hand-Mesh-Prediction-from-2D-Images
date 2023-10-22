@@ -1,0 +1,15 @@
+numpy==1.21.4
+numpy-quaternion==2021.11.4.15.26.3
+chumpy==0.70
+smplx==0.1.28
+pytorch-lightning==1.5.5
+opencv-python==4.5.3.56
+comet-ml==3.13.2
+loguru==0.5.3
+matplotlib==3.4.2
+pyarrow==1.0.0
+trimesh==3.9.21
+tqdm==4.62.3
+lmdb==1.0.0
+pyrender==0.1.45
+torchvision==0.9.1
